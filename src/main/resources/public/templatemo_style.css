@@ -292,3 +292,11 @@ p {
 #templatemo_footer_panel img{
 	margin: 0 5px 0 0;
 }
+#templatemo_footer_panel #footer_left {
+	float: left;
+	width: 340px;
+	padding: 0 25px 0 0;
+	margin: 0 15px 0 0;	
+	border-right: 1px solid #4c4c4c;
+
+}
